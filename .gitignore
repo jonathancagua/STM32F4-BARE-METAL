@@ -4,3 +4,4 @@
 .metadata/.plugins/org.eclipse.ui.workbench/
 
 0_led_toggle/Debug/*
+1_led_toggle_struc/Debug/*
