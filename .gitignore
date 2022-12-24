@@ -7,3 +7,4 @@
 1_led_toggle_struc/Debug/*
 2_led_toggle_cmsis/Debug/*
 3_led_btn_cmsis/Debug/*
+4_uart_tx_cmsis/Debug/*
