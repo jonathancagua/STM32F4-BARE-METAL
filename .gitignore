@@ -6,3 +6,4 @@
 0_led_toggle/Debug/*
 1_led_toggle_struc/Debug/*
 2_led_toggle_cmsis/Debug/*
+3_led_btn_cmsis/Debug/*
